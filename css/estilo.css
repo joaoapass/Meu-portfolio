@@ -319,7 +319,7 @@ div#post1{
     border-radius: 35px;
     filter: drop-shadow(5px 10px 5px #bdbdbd);
     transition: 300ms;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 div#post1:hover{
     width: 360px;
@@ -353,7 +353,7 @@ div#post2{
     border-radius: 35px;
     filter: drop-shadow(5px 10px 5px #bdbdbd);
     transition: 300ms;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 div#post2:hover{
     width: 360px;
@@ -387,7 +387,7 @@ div#post3{
     border-radius: 35px;
     filter: drop-shadow(5px 10px 5px #bdbdbd);
     transition: 300ms;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 div#post3:hover{
     width: 360px;
