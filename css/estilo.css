@@ -320,6 +320,7 @@ div#post1{
     filter: drop-shadow(5px 10px 5px #bdbdbd);
     transition: 300ms;
     margin-top: 20px;
+    padding: 20px;
 }
 div#post1:hover{
     width: 360px;
@@ -354,6 +355,7 @@ div#post2{
     filter: drop-shadow(5px 10px 5px #bdbdbd);
     transition: 300ms;
     margin-top: 20px;
+    padding: 20px;
 }
 div#post2:hover{
     width: 360px;
@@ -388,6 +390,7 @@ div#post3{
     filter: drop-shadow(5px 10px 5px #bdbdbd);
     transition: 300ms;
     margin-top: 20px;
+    padding: 20px;
 }
 div#post3:hover{
     width: 360px;
